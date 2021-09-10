@@ -932,9 +932,6 @@
         "password" : {
           "type" : "string"
         },
-        "phone" : {
-          "type" : "string"
-        },
         "userStatus" : {
           "type" : "integer",
           "format" : "int32",
