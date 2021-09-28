@@ -46,6 +46,11 @@
         "summary": "This API will be used to delete old quotations",
         "description": "Method to delete old motor quotations",
         "operationId": "deleteQuote",
+        "security": [
+          {
+            "Basic Authorization": []
+          }
+        ], 
         "parameters": [
           {
             "name": "source",
