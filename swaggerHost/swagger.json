@@ -11,17 +11,7 @@
   },
   "servers": [
   {
-  "url": "https://testgodigit1.allianz.at/digit/motor-insurance/services",
-  "description": "Development",
-  "variables": {}
-  },
-  {
-  "url": "https://preprod-qnb.godigit.com/digit/motor-insurance/services",
-  "description": "Pre-production",
-  "variables": {}
-  },
-  {
-  "url": "https://***/digit/motor-insurance/services",
+  "url": "https://qze09b33e0.execute-api.ap-south-1.amazonaws.com/test",
   "description": "Production, URL to be shared after UAT",
   "variables": {}
   }
