@@ -22,7 +22,7 @@
   }
   ],
   "paths": {
-  "/v2/quote/deleteQuote": {
+  "/quote/deleteQuote": {
   "delete": {
   "tags": [
   "Motor Insurance"
