@@ -264,7 +264,7 @@
         }
       }
     },
-    "/v2/quote/renewal/eligibility": {
+    "/quote/renewal/eligibility": {
       "get": {
         "tags": ["Motor Insurance"],
         "summary": "This API is used for fetching Digit's existing contract/ policy data, required for next renewal",
